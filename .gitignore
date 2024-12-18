@@ -1,0 +1,75 @@
+# Virtual environment directories
+venv/
+env/
+.venv/
+.virtualenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyw
+
+# Configuration files and secrets
+.env
+*.env
+*.ini
+*.cfg
+*.json
+
+# Logs and debug output
+*.log
+*.out
+*.err
+
+# Ephemeris files (adjust to match your directory/file naming)
+ephemeris/
+*.se1
+*.se2
+*.se3
+*.se4
+*.se5
+*.se6
+*.txt
+*.bin
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE or editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Bytecode and compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Test and coverage files
+.tox/
+.nox/
+coverage/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
