@@ -24,7 +24,7 @@ __pycache__/
 *.err
 
 # Ephemeris files (adjust to match your directory/file naming)
-ephemeris/
+ephe/ 
 *.se1
 *.se2
 *.se3
