@@ -4,7 +4,7 @@ import os
 
 def create_app():
     app = Flask(__name__)
-    SECRET_KEY = 'your_secret_key_here'  # Replace with your actual secret key
+    SECRET_KEY = 'whata2do2die2day'  # Replace with your actual secret key
 
     @app.route('/webhook', methods=['POST'])
     def webhook():
